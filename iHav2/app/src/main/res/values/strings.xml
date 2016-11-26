@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iHav2</string>
+    
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_repeating">Deleete repeating</string>
+    <string name="delete_all">Delete all</string>
+    <string name="dial_number">Number</string>
+    <string name="alarm_message">Message</string>
+    <string name="dial_button">Dial</string>
+    <string name="email">Email</string>
+    <string name="send_email_button">Send</string>
+
+</resources>
